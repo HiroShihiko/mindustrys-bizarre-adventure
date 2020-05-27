@@ -1,0 +1,5 @@
+type: resource
+name: Insect-Marking
+description: Attach This To An Unusable Arrow And You Have Yourself A Working Arrow.
+cost: 2.5
+color: FCF000FF

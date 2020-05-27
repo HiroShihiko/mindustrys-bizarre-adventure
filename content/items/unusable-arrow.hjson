@@ -1,0 +1,5 @@
+type: resource
+name: Unusable Arrow
+description: An Arrow Without Its Insect Marking Is Muda.
+cost: 2.5
+color: FCF000FF

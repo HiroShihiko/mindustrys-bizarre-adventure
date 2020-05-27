@@ -1,0 +1,27 @@
+{
+	"name": "Harvest Factory",
+	"description": "Summons Harvests To Collect More Resources",
+	"type": "UnitFactory",
+	"unitType": "harvest",
+	"size": 3,
+	"produceTime": 4000,
+	"maxSpawn": 2,
+	"consumes": {
+		"power": 3,
+		"items": {
+			"items": [
+				{"item": "titanium", "amount":15},
+				{"item": "thorium", "amount":20},
+				{"item": "plastanium", "amount":10}
+			]
+		}
+	},
+	"category": "units",
+	"research": "draug-factory",
+	"requirements": [
+		{ "item": "lead", "amount": 220 },
+		{ "item": "thorium", "amount": 200 },
+		{ "item": "titanium", "amount": 250 },
+		{ "item": "arrow", "amount": 1}
+	]
+}

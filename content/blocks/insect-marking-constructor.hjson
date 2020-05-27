@@ -1,0 +1,31 @@
+type: GenericSmelter
+name: Insect-Marking Constructor
+description: Constructs The Main Part Of A Stand Arrow. The Virus Power Is Too Much, So We've Resorted To Using High Technology Machines.
+size: 3
+hasPower: true
+hasItems: true
+craftTime: 1000
+craftEffect: smeltsmoke
+itemCapacity: 100
+consumes: {
+  power: 13.5
+  items: {
+  items: [
+  copper/60
+  lead/40
+  titanium/50
+  meteorite/5
+  ]
+  }
+  }
+outputItem: insect-marking/1
+requirements: [
+  copper/400
+  lead/120
+  graphite/150
+  silicon/200
+]
+category: crafting
+research: meteorite-collector
+idleSound: respawning
+idleSoundVolume: 0.5

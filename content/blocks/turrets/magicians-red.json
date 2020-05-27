@@ -1,0 +1,33 @@
+{
+  "type": "DoubleTurret",
+  "name": "[orange]Magician's [red]Red",
+  "description": "YES, I AM!",
+  "size": 3,
+  "damage": 40,
+  "outlineIcon": false,
+  "recoil": 1,
+  "heatColor": "ff0000",
+  "reload": 2,
+  "shots": 4,
+  "spread": 110,
+  "knockback": 4.7,
+  "coolantMultiplier": 3,
+  "range": 70,
+  "shootCone": 110,
+  "targetAir": true,
+  "ammoUseEffect": "none",
+  "health": 1000,
+  "shootSound": "flame",
+  "lifetime": 400,
+  "ammo": {
+      "pyratite": "pyraFlame"
+  },
+  "requirements": [
+    { "item": "silicon", "amount": 210 },
+    { "item": "graphite", "amount": 235 },
+    { "item": "lead", "amount": 350 },
+    { "item": "arrow", "amount": 1}
+  ],
+  "category": "turret",
+  "research": "duo"
+}

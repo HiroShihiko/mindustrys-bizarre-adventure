@@ -1,0 +1,28 @@
+type: GenericSmelter
+name: Arrow Head Constructor
+description: Used to construct an Arrow's Head.
+size: 2
+hasPower: true
+hasItems: true
+craftTime: 500
+craftEffect: smeltsmoke
+itemCapacity: 60
+consumes: {
+  power: 1.25,
+  items: {
+  items: [
+  copper/20
+  titanium/30
+  ]
+  }
+  }
+outputItem: arrow-head/1
+requirements: [
+  copper/90
+  lead/70
+  graphite/50
+]
+category: crafting
+research: handle-constructor
+idleSound: respawning
+idleSoundVolume: 0.5
