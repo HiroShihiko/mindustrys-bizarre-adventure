@@ -1,3 +1,9 @@
 ![Logo](icon.png)
 
-Mindustry's Bizarre Adventure. I Chose To Make This Mod Because So Far No One Has Made A Mod Based Off Of A Cool Anime Series Called "JoJo's Bizarre Adventure". The Mod Focuses On Making Turrets And Other Blocks Based And Referenced Off Of The Anime Series. 
+# Mindustry's Bizarre Adventure
+
+I chose to make this mod because so far no one has made a mod based off of a cool anime series called **JoJo's Bizarre Adventure**.
+This mod focuses on making turrets and other blocks based and referenced off of the anime series.
+
+### Credits
+See [Credits](CREDITS.md)
