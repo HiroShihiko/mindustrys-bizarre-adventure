@@ -17,8 +17,7 @@ Thank you so much for those who helped, it means alot to me.
 - Zen
 - Jamie
 - Green
-
-And many... many more.
+- And many... many more.
 
 > Thank you very much. 
 
