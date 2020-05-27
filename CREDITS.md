@@ -20,7 +20,6 @@ Thank you so much for those who helped, it means alot to me.
 
 And many... many more.
 
-
 > Thank you very much. 
 
 > Hiro Shihiko <3
