@@ -1,0 +1,34 @@
+{
+            "type": "MendProjector",
+            "name": "[blue] Crazy [cyan] Diamond",
+            "description": "DORA RA RA RA RA RA RA RA!!",
+            "size": 3,
+            "reload": 0.1,
+            "craftTime": 8,
+            "range": 20,
+            "outlineIcon": false,
+            "healPercent": 0.09,
+            "phaseBoost": 0.1,
+            "phaseRangeBoost": 5,
+            "health": 900,
+            "idleSound": "crazy-diamond",
+            "idleSoundVolume": 3,
+            "consumes": {
+              "power": 7,
+              "items": {
+                "items": [
+                  { "item": "phase-fabric", "amount": 1 }
+                ],
+                "optional": true,
+                "booster": true
+              }
+            },
+            "requirements": [
+              { "item": "lead", "amount": 200 },
+              { "item": "titanium", "amount": 280 },
+              { "item": "silicon", "amount": 290 },
+              { "item": "arrow", "amount": 1}
+            ],
+            "category": "effect",
+            "research": "mend-projector"
+}

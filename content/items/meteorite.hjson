@@ -1,0 +1,5 @@
+type: resource
+name: Meteorite
+description: An Unknown Meteorite Said To Be From Aliens. This Meteorite Has A Special Virus That, If Worthy, Will Give Supernatural Powers.
+cost: 2.5
+color: FCF000FF

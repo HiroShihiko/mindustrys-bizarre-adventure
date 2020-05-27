@@ -1,0 +1,37 @@
+type: BurstTurret
+name: "[green]Hierophant [lime]Green"
+description: "[lime]EMERALD [green]SPLASH!!"
+health: 1000
+category: turret
+outlineIcon: false
+size: 3
+reload: 1
+shootCone: 10
+rotateSpeed: 2
+targetAir: true
+range: 200
+inaccuracy: 17
+shots: 2
+shootSound: emeraldsplash
+hitSound: emerald-splash
+ammo: {
+    plastanium: {
+        type: BasicBulletType
+        damage: 30
+        speed: 8
+        knockback: 12
+        lifetime: 400
+        pierce: true
+        bulletHeight: 8
+        bulletWidth: 8
+        frontColor: 3fff00
+        backColor: 3fff00
+    }
+}
+requirements: [
+	titanium/240
+	lead/200
+	plastanium/150
+	arrow/1
+]
+research: duo

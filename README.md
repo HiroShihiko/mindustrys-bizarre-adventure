@@ -1,2 +1,10 @@
-# mindustrys-bizarre-adventure
-No one was making a JoJo mod, so I made one myself. A JoJo's Bizarre Adventure themed mod.
+![Logo](icon.png)
+
+# Mindustry's Bizarre Adventure
+
+I chose to make this mod because so far no one has made a mod based off of a cool anime series called **JoJo's Bizarre Adventure**.
+This mod focuses on making turrets and other blocks based and referenced off of the anime series.
+
+### Credits
+
+There are some people who helped me developing this mod. To see them, see [Credits](CREDITS.md).

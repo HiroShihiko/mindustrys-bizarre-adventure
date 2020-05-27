@@ -1,0 +1,32 @@
+type: DoubleTurret
+name: "[yellow]Dio [purple]Turret"
+description: "You Thought It Was A [purple]Turret[white], But It Was Me, [yellow]Dio[white]!!"
+health: 1500
+size: 3
+range: 150
+outlineIcon: false
+ammoUseEffect: shellEjectSmall
+inaccuracy: 0
+rotatespeed: 10
+shootSound: knife
+ammo: {
+  silicon:{
+      speed: 5
+      reload: 10
+      damage: 80
+      knockback: 8
+      bulletWidth: 6
+      bulletHeight: 15
+      pierce: true
+    shootEffect: shootSmall
+    ammoMultiplier: 6
+  }
+}
+requirements: [
+  silicon/340
+  metaglass/400
+  plastanium/380
+  arrow/1
+]
+category: turret
+research: duo

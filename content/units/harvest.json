@@ -1,0 +1,25 @@
+{
+	"type": "MinerDrone",
+	"name": "Harvest",
+	"description": "A Better Draug Miner",
+	"flying": true,
+	"maxVelocity": 3,
+	"minePower": 7,
+	"speed": 2,
+	"drag": 0.15,
+	"mass": 1.1,
+	"rotatespeed": 2,
+	"hitsize": 5,
+	"health": 50,
+	"range": 60,
+	"itemCapacity": 60,
+	"toMine": [
+		"copper",
+		"lead",
+		"titanium",
+		"thorium"
+	],
+	"weapon": {
+		"bullet": "lancerLaser"
+	}
+}
