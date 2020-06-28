@@ -1,0 +1,32 @@
+{
+  "type": "OverdriveProjector",
+  "name": "[yellow]Made [white]in [gold]Heaven",
+  "description": "Korega...Made in Heaven Da!!",
+  "buildTime": 3,
+  "canOverdrive": false,
+  "consumes": {
+    "power": 4,
+    "items": {
+      "items": [
+        { "item": "phase-fabric", "amount": 1 }
+      ],
+      "optional": true,
+      "booster": true
+    }
+  },
+  "size": 3,
+  "range": 100,
+  "speedBoost": 20,
+  "speedBoostPhase": 2,
+	"category": "effect",
+	"research": "overdrive-projector",
+  "requirements": [
+    { "item": "lead", "amount": 1000 },
+    { "item": "titanium", "amount": 1050 },
+    { "item": "silicon", "amount": 1500 },
+    { "item": "plastanium", "amount": 1000 },
+    { "item": "arrow", "amount": 1 },
+    { "item": "dio-bone", "amount": 1},
+    { "item": "dio-diary", "amount": 1}
+  ]
+}

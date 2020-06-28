@@ -1,0 +1,34 @@
+name: The Joestar Mansion
+description: Dio Brando Has Taken Over The Mansion. Claim Victory, Or Be Defeated By His Minions.
+loadout: JoestarMansion-loadout
+requirements: [
+zoneWave: 15]
+launchCost: [
+  copper/500
+  lead/500
+  titanium/500
+  silicon/500
+  graphite/500
+  ]
+//Mode: Attack
+startingItems: [
+  copper/500
+  lead/500
+  titanium/500
+  silicon/500
+  graphite/500
+  ]
+requirements: [
+  {
+    type: Launched
+    zone: desolateRift
+    }
+]
+resources: [
+  copper
+  lead
+  titanium
+  coal
+  scrap
+  sand
+]

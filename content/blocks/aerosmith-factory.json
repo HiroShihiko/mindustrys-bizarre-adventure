@@ -1,0 +1,28 @@
+{
+	"name": "Aerosmith Factory",
+	"description": "VOLARE VIA!!",
+	"type": "UnitFactory",
+	"unitType": "aerosmith",
+	"size": 2,
+	"produceTime": 800,
+	"maxSpawn": 3,
+	"consumes": {
+		"power": 3,
+		"items": {
+			"items": [
+				{"item": "silicon", "amount": 50},
+				{"item": "titanium", "amount": 50},
+				{"item": "arrow", "amount": 1 }
+			]
+		}
+	},
+	"category": "units",
+	"research": "wraith-factory",
+	"requirements": [
+		{ "item": "plastanium", "amount": 100},
+		{ "item": "graphite", "amount": 200 },
+		{ "item": "silicon", "amount": 200 },
+		{ "item": "titanium", "amount": 200 },
+		{ "item": "arrow", "amount": 1}
+	]
+}

@@ -1,0 +1,30 @@
+type: GenericSmelter
+name: Gem Forge
+description: Forges The Gem Used To Create A Requiem Arrow.
+size: 3
+hasPower: true
+hasItems: true
+craftTime: 110
+updateEffect: smeltsmoke
+canOverdrive: false
+consumes: {
+  power: 1
+  items: {
+    items: [
+      surge-alloy/5
+      meteorite/5
+    ]
+  }
+}
+requirements: [
+  phase-fabric/20
+  titanium/120
+  lead/ 200
+  graphite/150
+  silicon/250
+]
+category: crafting
+research: arrow-constructor
+idleSound: respawning
+idleSoundVolume: 0.5
+outputItem: gem/1

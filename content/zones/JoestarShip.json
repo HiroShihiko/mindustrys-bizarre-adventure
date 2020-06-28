@@ -1,0 +1,36 @@
+name: The Joestar Ship
+description: Dio Brando is at it again, he has managed to kill Jonathan Joestar. Stop him before he escapes!
+loadout: JoestarShip-loadout
+requirements: [
+zoneWave: 20]
+launchCost: [
+  copper/600
+  lead/500
+  metaglass/600
+  titanium/400
+  silicon/300
+  graphite/400
+  ]
+//Mode: Attack
+startingItems: [
+  copper/600
+  lead/500
+  metaglass/600
+  titanium/400
+  silicon/300
+  graphite/400
+  ]
+requirements: [
+  {
+    type: Launched
+    zone: JoestarMansion
+    }
+]
+resources: [
+  copper
+  lead
+  titanium
+  coal
+  scrap
+  sand
+]

@@ -1,0 +1,30 @@
+type: GenericSmelter
+name: Requiem Arrow Constructor
+description: The Power Of Requiem Will Soon Be Yours...
+size: 2
+hasPower: true
+hasItems: true
+craftTime: 80
+updateEffect: smeltsmoke
+consumes: {
+  power: 1
+  items: {
+    items: [
+      gem/1
+      arrow/1
+      insect-marking/1
+    ]
+  }
+}
+requirements: [
+  copper/50
+  titanium/150
+  graphite/200
+  plastanium/ 200
+  silicon/ 150
+]
+category: crafting
+research: gem-forge
+idleSound: respawning
+idleSoundVolume: 0.5
+outputItem: requiem-arrow/1

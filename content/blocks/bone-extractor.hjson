@@ -1,0 +1,25 @@
+type: genericCrafter
+name: Bone Extractor
+description: Locates Dio's Bone, Extracting It From The Ground.
+size: 5
+canOverdrive: false
+hasPower: true
+hasItems: true
+craftTime: 1200
+updateEffect: smeltsmoke
+craftEffect: smeltsmoke
+consumes: {
+  liquid: water/0.05
+  power: 10
+}
+outputItem: dio-bone/1
+requirements: [
+  graphite/ 800
+  silicon/ 850
+  surge-alloy/ 60
+  plastanium/ 500
+]
+category: production
+research: blast-drill
+idleSound: respawning
+idleSoundVolume: 0.5

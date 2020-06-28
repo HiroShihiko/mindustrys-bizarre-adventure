@@ -1,0 +1,6 @@
+type: wall
+name: Green
+size: 1
+buildVisibility: hidden
+playerUnmineable: true
+destructible: false
