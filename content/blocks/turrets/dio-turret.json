@@ -1,10 +1,10 @@
 type: DoubleTurret
 name: "[yellow]Dio [purple]Turret"
 description: "You Thought It Was A [purple]Turret[white], But It Was Me, [yellow]Dio[white]!!"
-health: 1500
+health: 3000
 size: 3
 range: 150
-outlineIcon: false
+buildCostMultiplier: 1
 ammoUseEffect: shellEjectSmall
 inaccuracy: 0
 rotatespeed: 10
@@ -13,8 +13,8 @@ ammo: {
   silicon:{
       speed: 5
       reload: 10
-      damage: 80
-      knockback: 8
+      damage: 90
+      knockback: 0.5
       bulletWidth: 6
       bulletHeight: 15
       pierce: true
@@ -23,9 +23,9 @@ ammo: {
   }
 }
 requirements: [
-  silicon/340
-  metaglass/400
-  plastanium/380
+  silicon/700
+  metaglass/700
+  plastanium/400
   arrow/1
 ]
 category: turret

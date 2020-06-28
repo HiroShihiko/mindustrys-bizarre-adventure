@@ -23,6 +23,6 @@ requirements: [
   graphite/50
 ]
 category: crafting
-research: handle-constructor
+research: arrow-handle-constructor
 idleSound: respawning
 idleSoundVolume: 0.5

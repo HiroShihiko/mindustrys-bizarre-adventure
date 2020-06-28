@@ -1,22 +1,23 @@
 type: GenericSmelter
 name: Arrow Constructor
-description: Used to construct an Unusable Arrow. Construct An Insect Marking In Order For The Arrow To Work
+description: Used to construct an Arrow.
 size: 2
 hasPower: true
 hasItems: true
 craftTime: 800
 craftEffect: smeltsmoke
-itemCapacity: 1
+itemCapacity: 5
 consumes: {
   power: 1.25,
   items: {
   items: [
   arrow-handle/1
   arrow-head/1
+  meteorite/5
   ]
   }
   }
-outputItem: unusable-arrow/1
+outputItem: arrow/1
 requirements: [
   copper/100
   lead/80

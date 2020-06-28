@@ -3,9 +3,9 @@ name: "[green]Hierophant [lime]Green"
 description: "[lime]EMERALD [green]SPLASH!!"
 health: 1000
 category: turret
-outlineIcon: false
 size: 3
-reload: 1
+buildCostMultiplier: 1,
+reload: 0.01
 shootCone: 10
 rotateSpeed: 2
 targetAir: true
@@ -13,13 +13,12 @@ range: 200
 inaccuracy: 17
 shots: 2
 shootSound: emeraldsplash
-hitSound: emerald-splash
 ammo: {
     plastanium: {
         type: BasicBulletType
-        damage: 30
-        speed: 8
-        knockback: 12
+        damage: 25
+        speed: 10
+        knockback: 2
         lifetime: 400
         pierce: true
         bulletHeight: 8

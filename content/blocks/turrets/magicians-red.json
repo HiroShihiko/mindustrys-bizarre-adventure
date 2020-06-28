@@ -4,7 +4,7 @@
   "description": "YES, I AM!",
   "size": 3,
   "damage": 40,
-  "outlineIcon": false,
+  "buildCostMultiplier": 1,
   "recoil": 1,
   "heatColor": "ff0000",
   "reload": 2,

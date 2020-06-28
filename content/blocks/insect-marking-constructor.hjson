@@ -1,11 +1,12 @@
 type: GenericSmelter
 name: Insect-Marking Constructor
-description: Constructs The Main Part Of A Stand Arrow. The Virus Power Is Too Much, So We've Resorted To Using High Technology Machines.
+description: Constructs The Main Part Of A Requiem Arrow. 
 size: 3
 hasPower: true
 hasItems: true
 craftTime: 1000
 craftEffect: smeltsmoke
+canOverdrive: false
 itemCapacity: 100
 consumes: {
   power: 13.5
@@ -26,6 +27,6 @@ requirements: [
   silicon/200
 ]
 category: crafting
-research: meteorite-collector
+research: meteorite-compressor
 idleSound: respawning
 idleSoundVolume: 0.5
