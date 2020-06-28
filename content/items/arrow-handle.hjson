@@ -1,5 +1,4 @@
 type: resource
 name: Arrow Handle
 description: An Arrow's Handle
-cost: 2.5
-color: BD7C00FF
+color: A9702DFF

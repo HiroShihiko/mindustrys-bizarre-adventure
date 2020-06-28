@@ -3,18 +3,18 @@
             "name": "[blue] Crazy [cyan] Diamond",
             "description": "DORA RA RA RA RA RA RA RA!!",
             "size": 3,
-            "reload": 0.1,
+            "reload": 300,
             "craftTime": 8,
-            "range": 20,
+            "range": 120,
             "outlineIcon": false,
-            "healPercent": 0.09,
-            "phaseBoost": 0.1,
+            "healPercent": 30,
+            "phaseBoost": 1,
             "phaseRangeBoost": 5,
             "health": 900,
             "idleSound": "crazy-diamond",
             "idleSoundVolume": 3,
             "consumes": {
-              "power": 7,
+              "power": 2,
               "items": {
                 "items": [
                   { "item": "phase-fabric", "amount": 1 }

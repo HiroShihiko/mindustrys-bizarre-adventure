@@ -1,9 +1,9 @@
 {
 	"localizedName": "Weather Report",
 	"description": "Forms a storm cloud that will then be shot at the enemy",
+    "buildCostMultiplier": 1,
 	"chargeTime": 100,
 	"chargeMaxDelay": 24,
-	"outlineIcon": false,
 	"health": 1200,
 	"size": 3,
 	"reload": 120,

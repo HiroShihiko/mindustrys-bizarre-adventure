@@ -1,5 +1,4 @@
 type: resource
 name: Arrow Head
 description: An Arrow's Head
-cost: 2.5
-color: FCF000FF
+color: E2D034FF

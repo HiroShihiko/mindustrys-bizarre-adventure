@@ -1,24 +1,24 @@
-# Credits
+Some Of These Contents Arent Mine, Nor Did I Do This Alone. I Had A Few Helpers Who Thought Me And Helped Me Code. Thank You So Much For Those Who Helped, It Means Alot To Me.
 
-Some of these contents aren't mine, nor did I do this alone. I had a few helpers who taught me and helped me code.
-Thank you so much for those who helped, it means alot to me.
+Mods Used:
+Advance Content Mod
+Mindustry Plus Mod
+Anuken's Example Mod
+AddTurret Mod
 
-### Mods Used:
-- [Advance Content](https://github.com/EyeOfDarkness/AdvanceContent) by [EyeOfDarkness](https://github.com/EyeOfDarkness)
-- Mindustry+ by NYAMINYARU
-- [Example Mod](https://github.com/Anuken/ExampleMod) by [Anuke](https://github.com/Anuken)
-- [Additional Turrets Mod](https://github.com/Rofle44/ATM) by [Rofle44](https://github.com/Rofle44)
+Special Thanks To:
+[FGP] XYX.Ph
+NightRaven (JheCabs)
+Niirk
+GlennFolker
+Zen
+Jamie
+Green
+And Many...many More.
 
-### Special Thanks To:
-- [FGP] XYX.Ph
-- NightRaven (JheCabs)
-- Niirk
-- [GlennFolker](https://github.com/GlennFolker)
-- Zen
-- Jamie
-- Green
-- And many... many more.
+Thank You So Very Much. 
 
-> Thank you very much. 
 
-> Hiro Shihiko <3
+
+
+                               —Hiro_Shihiko <3
