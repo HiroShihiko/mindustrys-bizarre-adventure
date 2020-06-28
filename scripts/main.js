@@ -1,1 +1,1 @@
-require("mindustrys-bizzare-adventure/turret/arccaster")
+require("mindustrys-bizzare-adventure/turrets/arccaster")
