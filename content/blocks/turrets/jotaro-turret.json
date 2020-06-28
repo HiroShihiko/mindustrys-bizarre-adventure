@@ -1,0 +1,26 @@
+{
+  "type": "ItemTurret",
+  "name": "Jotaro Turret",
+  "description": "[purple]Yare Yare Daze...",
+  "reload": 100,
+  "damage": 180,
+  "range": 150,
+  "recoil": 1,
+  "shots": 5,
+  "spread": 10,
+  "shootCone": 40,
+  "size": 3,
+  "health": "3000",
+  "shootSound": "shotgun",
+  "ammo": {
+    "graphite": "lancerLaser"
+  },
+  "requirements": [
+    { "item": "titanium", "amount": 500 },
+    { "item": "graphite", "amount": 800 },
+    { "item": "silicon", "amount": 700 },
+    { "item": "arrow", "amount": 1 }
+  ],
+  "category": "turret",
+  "research": "duo"
+}

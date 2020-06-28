@@ -1,0 +1,6 @@
+type: wall
+name: Orange
+size: 1
+buildVisibility: hidden
+playerUnmineable: true
+destructible: false

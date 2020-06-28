@@ -1,0 +1,32 @@
+{
+  "type": "ItemTurret",
+  "name": "Silver Chariot",
+  "description": "HORA HORA HORA!!",
+  "size": 3,
+  "inaccuracy": 0,
+  "reload": 100,
+  "range": 150,
+  "shootCone": 20,
+  "health": "900",
+  "rotatespeed": 30,
+  "ammo": {
+    "titanium": {
+       "type": "BasicBulletType",
+       "bulletWidth": 2,
+       "bulletHeight": 50,
+       "lifetime": 150,
+       "speed": 8,
+       "damage": 85,
+       "pierce": true
+    }
+},
+  "requirements": [
+    { "item": "titanium", "amount": 400 },
+    { "item": "silicon", "amount": 450 },
+    { "item": "copper", "amount": 600 },
+    { "item": "lead", "amount": 600},
+    { "item": "arrow", "amount": 1 }
+  ],
+  "category": "turret",
+  "research": "duo"
+}

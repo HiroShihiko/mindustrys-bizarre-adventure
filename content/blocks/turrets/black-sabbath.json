@@ -1,0 +1,32 @@
+{
+  "type": "ItemTurret",
+  "name": "Black Sabbath",
+  "description": "There are two paths that you can follow. The first path is for the chosen ones who will live... and the other, the path of [red]death[clear]!",
+  "size": 3,
+  "inaccuracy": 0,
+  "reload": 90,
+  "range": 50,
+  "shootCone": 20,
+  "health": "900",
+  "rotatespeed": 30,
+  "ammo": {
+    "titanium": {
+       "type": "BasicBulletType",
+       "bulletWidth": 3,
+       "bulletHeight": 40,
+       "lifetime": 15,
+       "speed": 2,
+       "damage": 80,
+       "pierce": true
+    }
+},
+  "requirements": [
+    { "item": "titanium", "amount": 500 },
+    { "item": "silicon", "amount": 450 },
+    { "item": "copper", "amount": 550 },
+    { "item": "lead", "amount": 500},
+    { "item": "arrow", "amount": 1 }
+  ],
+  "category": "turret",
+  "research": "duo"
+}

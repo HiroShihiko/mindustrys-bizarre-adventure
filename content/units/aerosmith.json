@@ -1,0 +1,24 @@
+{
+	"type": "FlyingUnit",
+	"name": "Aerosmith",
+	"description": "VOLA VOLA VOLA VOLA VOLA VOLA!!",
+	"speed": 0.7,
+	"attackLength": 125,
+    "maxVelocity": 1.9,
+    "drag": 0.01 ,
+    "mass": 1.5,
+    "flying": true,
+    "health": 200,
+        "weapon": {
+            "reload": 17,
+            "alternate": true,
+            "ammoUseEffect": "shellEjectSmall",
+	    	"bullet": {
+	        	"type": "basicBulletType",
+	        	"damage": 90,
+	        	"speed": 5,
+	        	"lifeTime": 4000,
+	        	"piercing": true
+	    	}
+        }
+}

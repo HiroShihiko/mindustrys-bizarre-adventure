@@ -1,0 +1,35 @@
+{
+  "type": "LaserTurret",
+  "name": "[yellow]Golden Experience Requiem",
+  "description": "[gold]Shinjitsu ni tōtatsu suru koto wa kesshite nai!!",
+  "health": 5000,
+  "buildCostMultiplier": 1,
+  "shootSound": "laserbig",
+  "activeSound": "beam",
+  "range": 250,
+  "reload": 50,
+  "size": 4,
+  "targetAir": true,
+  "heatColor": "ff0000",
+  "hasPower": true,
+  "firingMoveFract": 0.80,
+  "shootDuration": 310,
+  "shootType": "meltdownLaser",
+  "powerUse": 20,
+  "consumes": {
+  "liquid": {
+    "liquid": "cryofluid",
+    "amount": 0.66
+  }
+  },
+  "requirements": [
+        { "item": "lead", "amount": 500 },
+        { "item": "titanium", "amount": 600 },
+        { "item": "silicon", "amount": 550},
+        { "item": "thorium", "amount": 590 },
+        { "item": "surge-alloy", "amount": 400},
+        { "item": "requiem-arrow", "amount": 1}
+	],
+  "category": "turret",
+  "research": "meltdown"
+}

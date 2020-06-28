@@ -1,0 +1,26 @@
+type: genericCrafter
+name: Diary Writer
+description: An Antient Machine Given Memories Of Dio...'Spiral Staircase, Rhinoceros Beetle, Desolation Row, Fig Tart, Rhinoceros Beetle, Via Dolorosa, Rhinoceros Beetle, Singularity Point, Giotto, Angel, Hydrangea, Rhinoceros Beetle, Singularity Point, Secret emperor'.
+size: 3
+canOverdrive: false
+hasPower: true
+hasItems: true
+craftTime: 1200
+updateEffect: smeltsmoke
+craftEffect: smeltsmoke
+consumes: {
+  liquid: oil/0.1
+  power: 10
+}
+outputItem: dio-diary/1
+requirements: [
+  lead/ 1000
+  graphite/ 850
+  silicon/ 900
+  surge-alloy/ 40
+  plastanium/ 350
+]
+category: production
+research: bone-extractor
+idleSound: respawning
+idleSoundVolume: 0.5
