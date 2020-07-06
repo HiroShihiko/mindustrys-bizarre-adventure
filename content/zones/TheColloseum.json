@@ -1,0 +1,38 @@
+name: The Colloseum
+description: 
+loadout: JoestarShip-loadout
+requirements: [
+zoneWave: 20]
+launchCost: [
+  copper/800
+  lead/800
+  metaglass/600
+  titanium/600
+  silicon/500
+  graphite/500
+  thorium/300
+  ]
+startingItems: [
+  copper/800
+  lead/800
+  metaglass/600
+  titanium/600
+  silicon/500
+  graphite/500
+  thorium/300
+  ]
+requirements: [
+  {
+    type: Launched
+    zone: JoestarMansion
+    }
+]
+resources: [
+  copper
+  lead
+  titanium
+  thorium
+  coal
+  scrap
+  sand
+]

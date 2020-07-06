@@ -1,0 +1,20 @@
+{
+	"name": "Esidisi",
+	"type": "groundUnit",
+	"description": "I am Esidisi of the       Flame! My Mode controls heat! [red]Honō no Mōdo[clear]!!",
+    "speed": 0.5,
+    "maxVelocity": 0.7,
+    "mass": 7,
+    "drag": 0.5,
+    "hitsize": 10,
+    "rotatespeed": 0.05,
+    "health": 6000,
+    "weapon": {
+        "type": "standardIncendiaryBig",
+        "shootSound": "flame",
+        "bullet": "pyraFlame",
+        "damage": 10,
+        "lifetime": 4000,
+        "speed":2.5
+        }
+    }

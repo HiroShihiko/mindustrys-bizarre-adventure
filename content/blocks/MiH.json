@@ -2,7 +2,6 @@
   "type": "OverdriveProjector",
   "name": "[yellow]Made [white]in [gold]Heaven",
   "description": "Korega...Made in Heaven Da!!",
-  "buildTime": 3,
   "canOverdrive": false,
   "consumes": {
     "power": 4,

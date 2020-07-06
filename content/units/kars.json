@@ -1,0 +1,33 @@
+name: Kars
+description: Don't you wish to conquer the sun? Don't you wish to rule over all? Don't you wish to purge your fears?!
+type: GroundUnit
+health: 30000
+speed: 0.1
+maxVelocity: 0.6
+mass: 6
+drag: 0.4
+hitsize: 20
+rotatespeed: 0.05
+weapon: {
+  name: wamuu-weapon
+  length: 16
+  width: 25
+  reload: 60
+  alternate: true
+  recoil: 6
+  shake: 2
+  inaccuracy: 2
+  shootSound: kars-shoot
+  bullet: {
+    type: BasicBulletType
+	damage: 2500
+	speed: 7
+	lifetime: 100
+	bulletWidth: 40
+	bulletHeight: 20
+	backColor: FFFFFFFF
+	frontColor: FFFFFFFF
+	bulletSprite: mindustrys-bizarre-adventure-boneblade
+	piercing: true
+  }
+}

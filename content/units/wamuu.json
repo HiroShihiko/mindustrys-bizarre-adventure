@@ -1,0 +1,16 @@
+name: "Wamuu"
+description: "I am Wamuu, my mode controls the wind! Kaze no Mōdo!!!"
+flying: false
+speed: 0.5
+targetAir: true
+maxVelocity: 1
+weaponOffsetY: 0
+engineOffset: 1
+mass: 8
+drag: 0.5
+engineSize: 2
+hitsize: 15
+rotatespeed: 2
+health: 7000
+reload: 0.5
+rotateWeapon: true
