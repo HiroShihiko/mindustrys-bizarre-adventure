@@ -1,0 +1,7 @@
+type: material
+name: Holy Corpse Part
+description: "[gold]Dorime~"
+cost: 3
+color: FDF6CFFF
+hardness: 6
+playerUnmineable: true

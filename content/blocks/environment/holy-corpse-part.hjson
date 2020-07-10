@@ -1,0 +1,8 @@
+type: OverlayFloor
+localizedName: Holy Corpse Part
+name: Holy Corpse Part
+itemDrop: holy-corpse-part
+playerUnmineable: true
+variants: 9
+oreScale: 9
+oreThreshold: 0.90

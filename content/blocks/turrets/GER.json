@@ -27,7 +27,7 @@
         { "item": "titanium", "amount": 600 },
         { "item": "silicon", "amount": 550},
         { "item": "thorium", "amount": 590 },
-        { "item": "surge-alloy", "amount": 400},
+        { "item": "surge-alloy", "amount": 300},
         { "item": "requiem-arrow", "amount": 1}
 	],
   "category": "turret",

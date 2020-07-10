@@ -1,0 +1,26 @@
+{
+    "type": "GroundUnit",
+    "name": "Sheer Heart Attack",
+    "description": "[red]LOOK OVER HERE!!",
+    "maxVelocity": 1.5,
+    "speed": 1,
+    "drag": 1,
+    "hitsize": 8,
+    "mass": 1000,
+    "health": 1000,
+    "weapon": {
+        "reload": 0.1,
+        "ejectEffect": "none",
+        "shootSound": "SHA",
+        "bullet": {
+            "type": "BombBulletType",
+            "hitEffect": "pulverize",
+            "lifetime": 30,
+            "speed": 1,
+            "splashDamageRadius": 70,
+            "instantDisappear": true,
+            "splashDamage": 100,
+            "killShooter": true
+        }
+    }
+}

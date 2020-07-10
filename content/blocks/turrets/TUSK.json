@@ -1,0 +1,39 @@
+{
+  "type": "ItemTurret",
+  "name": "TUSK",
+  "description": "Arigato, Gyro...",
+  "size": 4,
+  "inaccuracy": 0,
+  "reload": 150,
+  "range": 400,
+  "shootCone": 40,
+  "health": "5000",
+  "rotatespeed": 50,
+  "canOverdrive": false,
+  "shootSound": "TUSK-shoot",
+  "bulletSprite": "TUSK-bullet",
+  "ammo": {
+    "thorium": {
+       "type": "BasicBulletType",
+       "bulletWidth": 2,
+       "bulletHeight": 2,
+       "backColor": "93FFEBFF",
+       "frontColor": "93FFEBFF",
+       "lifetime": 500,
+       "speed": 10,
+       "damage": 2000,
+       "pierce": true
+    }
+},
+  "requirements": [
+    { "item": "titanium", "amount": 600 },
+    { "item": "silicon", "amount": 500 },
+    { "item": "copper", "amount": 800 },
+    { "item": "lead", "amount": 800},
+    { "item": "thorium", "amount": 700 },
+    { "item": "arrow", "amount": 1 },
+    { "item": "holy-corpse-part", "amount": 4 }
+  ],
+  "category": "turret",
+  "research": "GER"
+}
